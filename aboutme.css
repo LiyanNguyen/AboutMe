@@ -2,6 +2,10 @@
   background-color: #fbfbfb;
 }
 
+.btn.snow-white:hover {
+  background-color: #edf1f5;
+}
+
 .sky-blue {
   background-color: #edf1f5;
 }
@@ -11,7 +15,15 @@
 }
 
 .else-blue {
-  background-color: #41445f;
+  background-color: #565a7c;
+}
+
+.btn.sky-blue {
+  background-color: #cdd8e4;
+}
+
+.btn.sky-blue:hover {
+  background-color: #b8c1ca;
 }
 
 #body {
